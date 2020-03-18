@@ -1,2 +1,0 @@
-# KsManagementSyestem
-oop at gnu
